@@ -1,15 +1,3 @@
----
-title: "General Workflow"
-author: "Sung Rye Park"
-date: "`r format(Sys.Date())`"
-output:  
-  rmdformats::robobook: 
-    code_folding: show 
-    number_sections: F
-    toc_depth: 5
-    toc_float: true
----
-
 
 This report outlines the general workflows I utilize for the analysis of sequencing data across various platforms. I generally follow these guidelines for most of my work and incorporate additional analyses based on the specific goals and discussions related to each project.          
 
