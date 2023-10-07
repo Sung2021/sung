@@ -10,9 +10,6 @@ output:
     toc_float: true
 ---
 
-```{r setup, include=TRUE, echo=F}
-knitr::opts_chunk$set(echo=T, fig.align = "center", message=F, warning=F)
-```
 
 This report outlines the general workflows I utilize for the analysis of sequencing data across various platforms. I generally follow these guidelines for most of my work and incorporate additional analyses based on the specific goals and discussions related to each project.          
 
